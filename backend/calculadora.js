@@ -1,7 +1,7 @@
 'use strict'
 
 var params = process.argv.slice(2); // nos permite capturar los parametros pasados por la consola. 
-//Le pasamos el numero 2 para que empiece por el indice numero 2 que es donde empiezan pos numeros que 
+//Le pasamos el numero 2 para que empiece por el indice numero 2 que es donde empiezan los numeros que 
 //les he pasado por consola.
 
 var numero1 = parseFloat(params[0]);
